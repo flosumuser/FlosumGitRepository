@@ -4,4 +4,8 @@ public with sharing class TestTest
     {
     	//TestTest()
     }
+    public TestTestTest()
+    {
+    	//TestTest()
+    }
 }
