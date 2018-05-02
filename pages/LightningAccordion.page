@@ -1,0 +1,42 @@
+<apex:page sidebar="false" standardStylesheets="false">
+    <apex:slds />
+    <div class="slds-saini">
+        <ul class="slds-accordion">
+          <li class="slds-accordion__list-item">
+            <section class="slds-accordion__section">
+              <div class="slds-accordion__summary">
+                <h3 class="slds-text-heading_small slds-accordion__summary-heading">
+                  <button aria-controls="accordion-details-01" aria-expanded="true" class="slds-button slds-button_reset slds-accordion__summary-action" onClick="toggleSectionDetail(this);">
+                    <!--<svg aria-hidden="true" class="slds-accordion__summary-action-icon slds-button__icon slds-button__icon_left">
+                        <apex:image url="{!URLFOR($Resource.SLDSSUMMER17, '/assets/icons/utility-sprite/svg/symbols.svg#switch')}" width="50" height="50" alt="Description of image here"/>
+                    </svg>-->
+                    <span class="slds-avatar slds-avatar--medium">
+                      <img src="{!URLFOR($Resource.SLDSSUMMER17, '/assets/icons/utility/switch_60.png')}" alt="" />
+                    </span>
+                    <span class="slds-truncate" title="Accordion summary">Accordion summary</span>
+                  </button>
+                </h3>
+                <button class="slds-button slds-button_icon slds-button_icon-border-filled slds-button_icon-x-small slds-shrink-none" aria-haspopup="true">
+                    <span class="slds-avatar slds-avatar--medium">
+                      <img src="{!URLFOR($Resource.SLDSSUMMER17, '/assets/icons/utility/down_60.png')}" alt="" />
+                    </span>
+                  <span class="slds-assistive-text">More Options</span>
+                </button>
+              </div>
+              <div aria-hidden="false" class="slds-accordion__content" id="accordion-details-01">Accordion details - A</div>
+            </section>
+          </li>
+        </ul>
+    </div>
+    <script>
+        function toggleSectionDetail(section)
+        {
+            //console.log(section);
+            //console.log(section.parentElement);
+            //console.log(section.parentElement.parentElement);
+            //console.log(section.parentElement.parentElement.parentElement);
+            var element = section.parentElement.parentElement.parentElement;
+            element.classList.toggle("slds-is-open");
+        }
+    </script>
+</apex:page>

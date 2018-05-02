@@ -1,0 +1,13 @@
+<apex:page controller="CreateFlowController" docType="html-5.0">
+    <apex:includeScript value="{!$Resource.jquery}"/>
+    <apex:form id="full">
+        <apex:pageMessages id="msg" />
+        <apex:pageBlock >
+            <apex:inputText value="{!flowName }"/>
+            <apex:input type="number" value="{!flowNumber}"/>
+            <apex:pageBlockButtons >
+                <apex:commandButton value="Create Flow" action="{!createFlowByCode}" reRender="full"/>
+            </apex:pageBlockButtons>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
