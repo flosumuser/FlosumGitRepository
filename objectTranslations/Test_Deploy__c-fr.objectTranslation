@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Test Deploy --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- Test Deploy --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Country --></label>
+        <name>Country__c</name>
+        <picklistValues>
+            <masterLabel>England</masterLabel>
+            <translation>Angleterre</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>India</masterLabel>
+            <translation>Inde</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sri Lanka</masterLabel>
+            <translation>Sri lanka</translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label>Test 1</label>
+        <name>test1__c</name>
+    </fields>
+    <fields>
+        <label>Test 2</label>
+        <name>test2__c</name>
+    </fields>
+    <gender><!-- Masculine --></gender>
+    <nameFieldLabel><!-- Test Deploy Name --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Contact Master</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Contacts</value>
+    </caseValues>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>City()</value>
+        </caseValues>
+        <name>city_contact</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Access</value>
+        </caseValues>
+        <name>contact_access</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Access Level</value>
+        </caseValues>
+        <name>contact_access_level</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Account</value>
+        </caseValues>
+        <name>contact_account</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Currency</value>
+        </caseValues>
+        <name>contact_currency</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Description</value>
+        </caseValues>
+        <name>contact_description</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Division</value>
+        </caseValues>
+        <name>contact_division</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Edit</value>
+        </caseValues>
+        <name>contact_edit</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Email</value>
+        </caseValues>
+        <name>contact_email</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Fax</value>
+        </caseValues>
+        <name>contact_fax</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Contact Master Fields</value>
+        </caseValues>
+        <name>contact_field</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master History</value>
+        </caseValues>
+        <name>contact_history</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master History Report</value>
+        </caseValues>
+        <name>contact_history_report</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master ID</value>
+        </caseValues>
+        <name>contact_id</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Information</value>
+        </caseValues>
+        <name>contact_information</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Mobile</value>
+        </caseValues>
+        <name>contact_mobile</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Name</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Contact Master Names</value>
+        </caseValues>
+        <name>contact_name</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Note</value>
+        </caseValues>
+        <name>contact_note</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Number</value>
+        </caseValues>
+        <name>contact_number</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Owner</value>
+        </caseValues>
+        <name>contact_owner</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Owner Alias</value>
+        </caseValues>
+        <name>contact_owner_alias</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Phone</value>
+        </caseValues>
+        <name>contact_phone</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Record</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Contact Master Records</value>
+        </caseValues>
+        <name>contact_record</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Record Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Contact Master Record Types</value>
+        </caseValues>
+        <name>contact_record_type</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Reports To Contact Master</value>
+        </caseValues>
+        <name>contact_reports_to</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Role</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Contact Master Roles</value>
+        </caseValues>
+        <name>contact_role</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Role ID</value>
+        </caseValues>
+        <name>contact_role_id</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Role Report</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Contact Master Role Reports</value>
+        </caseValues>
+        <name>contact_role_report</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Stage ID</value>
+        </caseValues>
+        <name>contact_stage_id</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Status</value>
+        </caseValues>
+        <name>contact_status</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Contact Master Types</value>
+        </caseValues>
+        <name>contact_type</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Contact Master View</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Contact Master Views</value>
+        </caseValues>
+        <name>contact_view</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Email()</value>
+        </caseValues>
+        <name>email_contact</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <label><!-- Custom Field --></label>
+        <name>Custom_Field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Sync Date --></label>
+        <name>Zendesk__Last_Sync_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Sync Status --></label>
+        <name>Zendesk__Last_Sync_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zendesk Result --></label>
+        <name>Zendesk__Result__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tags --></label>
+        <name>Zendesk__Tags__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zendesk_OutofSync --></label>
+        <name>Zendesk__Zendesk_OutofSync__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zendesk_oldTags --></label>
+        <name>Zendesk__Zendesk_oldTags__c</name>
+    </fields>
+    <fields>
+        <label><!-- isCreatedUpdatedFlag --></label>
+        <name>Zendesk__isCreatedUpdatedFlag__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notes --></label>
+        <name>Zendesk__notes__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zendesk User Id --></label>
+        <name>Zendesk__zendesk_id__c</name>
+    </fields>
+    <layouts>
+        <layout>Contact Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Contact Layout SDoc</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please use another name --></errorMessage>
+        <name>Validation_Rule</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Email_Docs --></label>
+        <name>SDOC__Email_Docs</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- S_Docs --></label>
+        <name>SDOC__S_Docs</name>
+    </webLinks>
+</CustomObjectTranslation>

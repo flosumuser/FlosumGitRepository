@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Manifest</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Manifests</value>
+    </caseValues>
+    <fields>
+        <label><!-- Component History --></label>
+        <name>Component_History__c</name>
+        <relationshipLabel><!-- Manifests --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Metadata Item --></label>
+        <name>Metadata_Item__c</name>
+        <relationshipLabel><!-- Manifests --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Patchs --></label>
+        <name>Patch__c</name>
+        <relationshipLabel><!-- Manifests --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

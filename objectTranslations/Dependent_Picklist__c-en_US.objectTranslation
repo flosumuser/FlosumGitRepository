@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Dependent Picklist</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Dependent Picklist</value>
+    </caseValues>
+    <fields>
+        <label><!-- Cloth Type --></label>
+        <name>Cloth_Type__c</name>
+        <picklistValues>
+            <masterLabel>Dhoti</masterLabel>
+            <translation><!-- Dhoti --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jeans</masterLabel>
+            <translation><!-- Jeans --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kurta</masterLabel>
+            <translation><!-- Kurta --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lahanga</masterLabel>
+            <translation><!-- Lahanga --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Odhni</masterLabel>
+            <translation><!-- Odhni --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shirt</masterLabel>
+            <translation><!-- Shirt --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Skirt</masterLabel>
+            <translation><!-- Skirt --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Top</masterLabel>
+            <translation><!-- Top --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Toy</masterLabel>
+            <translation><!-- Toy --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Gender --></label>
+        <name>Gender__c</name>
+        <picklistValues>
+            <masterLabel>Female</masterLabel>
+            <translation><!-- Female --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Male</masterLabel>
+            <translation><!-- Male --></translation>
+        </picklistValues>
+    </fields>
+    <recordTypes>
+        <label><!-- City --></label>
+        <name>City</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Village --></label>
+        <name>Village</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject    xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Temp__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Temp</label>
+        <required>false</required>
+        <type>Date</type>
+    </fields>
+    <label>Account</label>
+    <pluralLabel>Accounts</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

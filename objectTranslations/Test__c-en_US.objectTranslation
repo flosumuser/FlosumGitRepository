@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Test</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Tests</value>
+    </caseValues>
+    <fields>
+        <label>is test</label>
+        <name>IsTest__c</name>
+    </fields>
+    <fields>
+        <label>picklist 2</label>
+        <name>Picklist_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- TestRequired Picklist --></label>
+        <name>TestRequired_Picklist__c</name>
+        <picklistValues>
+            <masterLabel>&quot; !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@[\]^_`{|}~&quot;</masterLabel>
+            <translation><!-- &quot; !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@[\]^_`{|}~&quot; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>&apos;â€œ&apos;, &apos;â€™&apos;, &apos;â€¦&apos;, &apos;â€”&apos;, &apos;â€“&apos;, &apos;â€˜&apos;, &apos;Ã©&apos;, &apos;Â&apos;, &apos;â€¢&apos;, &apos;Ëœ&apos;, &apos;â€&apos;</masterLabel>
+            <translation><!-- &apos;â€œ&apos;, &apos;â€™&apos;, &apos;â€¦&apos;, &apos;â€”&apos;, &apos;â€“&apos;, &apos;â€˜&apos;, &apos;Ã©&apos;, &apos;Â&apos;, &apos;â€¢&apos;, &apos;Ëœ&apos;, &apos;â€&apos; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;</masterLabel>
+            <translation><!-- &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Advanced -</masterLabel>
+            <translation><!-- Advanced - --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Credit / Risk / Policy Exceptions</masterLabel>
+            <translation><!-- Credit / Risk / Policy Exceptions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>On Deck Loan (B10)  </masterLabel>
+            <translation><!-- On Deck Loan (B10)   --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>On Deck Loan (B10)Â Â </masterLabel>
+            <translation><!-- On Deck Loan (B10)Â Â  --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One</masterLabel>
+            <translation><!-- One --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Three</masterLabel>
+            <translation><!-- Three --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Two</masterLabel>
+            <translation><!-- Two --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>m�ywe</masterLabel>
+            <translation><!-- m�ywe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>¡¢£¤¥€¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾</masterLabel>
+            <translation><!-- ¡¢£¤¥€¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>¿ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδε</masterLabel>
+            <translation><!-- ¿ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδε --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞ</masterLabel>
+            <translation><!-- ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüý</masterLabel>
+            <translation><!-- ßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüý --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>þÿŒœŠšŸƒˆ˜</masterLabel>
+            <translation><!-- þÿŒœŠšŸƒˆ˜ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ζηθικλμνξοπρςστυφχψωϑϒϖ†‡•…‰′″</masterLabel>
+            <translation><!-- ζηθικλμνξοπρςστυφχψωϑϒϖ†‡•…‰′″ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>‾⁄℘ℑℜ™ℵ←↑→↓↔↵⇐⇑⇒⇓⇔∀∂∃∅∇∈∉∋∏∑</masterLabel>
+            <translation><!-- ‾⁄℘ℑℜ™ℵ←↑→↓↔↵⇐⇑⇒⇓⇔∀∂∃∅∇∈∉∋∏∑ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>−∗√∝∞∠∧∨∩∪∫∴∼</masterLabel>
+            <translation><!-- −∗√∝∞∠∧∨∩∪∫∴∼ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>≅≈≠≡≤≥⊂⊃⊄⊆⊇⊕⊗⊥⋅⌈</masterLabel>
+            <translation><!-- ≅≈≠≡≤≥⊂⊃⊄⊆⊇⊕⊗⊥⋅⌈ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>⌉⌊⌋⟨⟩◊♠♣♥♦</masterLabel>
+            <translation><!-- ⌉⌊⌋⟨⟩◊♠♣♥♦ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>�sfsefe</masterLabel>
+            <translation><!-- �sfsefe --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Test One --></label>
+        <name>Test_One__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test Three --></label>
+        <name>Test_Three__c</name>
+    </fields>
+    <layouts>
+        <layout>Test Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Test Layout 2</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- RTOne --></label>
+        <name>RTOne</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- RTThree --></label>
+        <name>RTThree</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- RTTwo --></label>
+        <name>RTTwo</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

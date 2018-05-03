@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Token Type --></label>
+        <name>TempTest__Token_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Token Value --></label>
+        <name>TempTest__Token_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- UID --></label>
+        <name>TempTest__UID__c</name>
+    </fields>
+</CustomObjectTranslation>

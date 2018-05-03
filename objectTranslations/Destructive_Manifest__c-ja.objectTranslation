@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Destructive Manifest --></value>
+    </caseValues>
+    <fields>
+        <label>成分 / 成分</label>
+        <name>Component__c</name>
+        <relationshipLabel><!-- Destructive Changes --></relationshipLabel>
+    </fields>
+    <fields>
+        <label>メタデータアイテム / メタデータアイテム</label>
+        <name>Metadata_Item__c</name>
+        <relationshipLabel><!-- Destructive Manifests --></relationshipLabel>
+    </fields>
+    <fields>
+        <label>パッチ / パッチ</label>
+        <name>Patch__c</name>
+        <relationshipLabel><!-- Destructive Manifests --></relationshipLabel>
+    </fields>
+    <nameFieldLabel><!-- Destructive Manifest Name --></nameFieldLabel>
+</CustomObjectTranslation>

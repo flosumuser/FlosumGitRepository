@@ -1,0 +1,7 @@
+<apex:page >
+    <apex:includeScript value="{!URLFOR($Resource.jquery)}"/>
+    <apex:includeScript value="{!URLFOR($Resource.preetydiff,'prettydiff-master/api/dom.js')}"/>
+    <apex:includeScript value="{!URLFOR($Resource.preetydiff,'prettydiff-master/lib/safeSort.js')}"/>
+    <apex:includeScript value="{!URLFOR($Resource.preetydiff,'prettydiff-master/lib/markuppretty.js')}"/>
+    <apex:includeScript value="{!URLFOR($Resource.jqueryformat)}"/>
+</apex:page>

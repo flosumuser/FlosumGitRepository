@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveChatSensitiveDataRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionType>Remove</actionType>
+    <description>Tempo Description</description>
+    <enforceOn>5</enforceOn>
+    <isEnabled>false</isEnabled>
+    <pattern>1234</pattern>
+</LiveChatSensitiveDataRule>

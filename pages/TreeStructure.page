@@ -1,0 +1,15 @@
+<apex:page standardController="Account" extensions="TreeStructureExtension">
+    <apex:includeScript value="{!URLFOR($Resource.jquery)}"/>
+    <apex:includeScript value="{!URLFOR($Resource.jstree, 'dist/jstree.min.js')}"/>
+    <apex:stylesheet value="{!URLFOR($Resource.jstree, 'dist/themes/default/style.min.css')}"/>
+    <apex:pageBlock title="">
+    	<div id="tree">
+    	</div>
+    </apex:pageBlock>
+    
+    <script>
+        var dataJson = '{!treeJson}';
+        console.log(dataJson);
+        $('#tree').jstree(JSON.parse('{"core" : {"data" : '+dataJson+'}}'));
+    </script>
+</apex:page>

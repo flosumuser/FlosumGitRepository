@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Hello Object Del</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Hello Object Del</value>
+    </caseValues>
+    <fields>
+        <label><!-- Hello Object Del --></label>
+        <name>Hello_Object_Del__c</name>
+        <relationshipLabel><!-- Hello Object Del --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Hello Object --></label>
+        <name>Hello_Object__c</name>
+        <relationshipLabel><!-- Hello Object Del --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- New --></label>
+        <name>New__c</name>
+    </fields>
+    <fields>
+        <label><!-- PickList --></label>
+        <name>PickList__c</name>
+        <picklistValues>
+            <masterLabel>Change  email</masterLabel>
+            <translation><!-- Change  email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Don</masterLabel>
+            <translation><!-- Don --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Problem</masterLabel>
+            <translation><!-- Problem --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Problem  email</masterLabel>
+            <translation><!-- Problem  email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Problem  web recommendations</masterLabel>
+            <translation><!-- Problem  web recommendations --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Problem email</masterLabel>
+            <translation><!-- Problem email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>^S</masterLabel>
+            <translation><!-- ^S --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>· Special¶±Problem email</masterLabel>
+            <translation><!-- · Special¶±Problem email --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Rich Text --></label>
+        <name>Rich_Text__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

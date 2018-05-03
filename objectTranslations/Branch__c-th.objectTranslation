@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Branch --></value>
+    </caseValues>
+    <fields>
+        <label>ชื่อสาขา</label>
+        <name>Branch_Name__c</name>
+    </fields>
+    <fields>
+        <label>ค้นหาสาขา</label>
+        <name>Branch__c</name>
+        <relationshipLabel><!-- Branches --></relationshipLabel>
+    </fields>
+    <fields>
+        <label>อีเมลทดสอบ</label>
+        <name>Test_Email__c</name>
+    </fields>
+    <fields>
+        <label>ทดสอบสอง</label>
+        <name>Test_Two__c</name>
+    </fields>
+    <fields>
+        <label>ผู้ใช้</label>
+        <name>User__c</name>
+        <relationshipLabel><!-- Branches --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Branch Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Second Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Branch Name --></nameFieldLabel>
+    <quickActions>
+        <label><!-- Test Action --></label>
+        <name>Test_Action</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- Jumbo --></label>
+        <name>Jumbo</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Tingu --></label>
+        <name>Tingu</name>
+    </recordTypes>
+    <sharingReasons>
+        <label><!-- Reason One (A) --></label>
+        <name>Reason_One</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- Reason Two --></label>
+        <name>Reason_Two</name>
+    </sharingReasons>
+    <validationRules>
+        <errorMessage><!-- error --></errorMessage>
+        <name>one</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- New_Weblink --></label>
+        <name>New_Weblink</name>
+    </webLinks>
+</CustomObjectTranslation>

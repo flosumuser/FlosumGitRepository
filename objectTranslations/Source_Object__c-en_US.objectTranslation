@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Source Object</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Source Object</value>
+    </caseValues>
+    <fields>
+        <label><!-- Checked --></label>
+        <name>Checked__c</name>
+    </fields>
+    <fields>
+        <label><!-- Currency --></label>
+        <name>Currency__c</name>
+    </fields>
+    <fields>
+        <label><!-- DateTime --></label>
+        <name>DateTime__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date --></label>
+        <name>Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- GeoLocation --></label>
+        <name>GeoLocation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Picklist --></label>
+        <name>Picklist__c</name>
+        <picklistValues>
+            <masterLabel>One</masterLabel>
+            <translation><!-- One --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Three</masterLabel>
+            <translation><!-- Three --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Two</masterLabel>
+            <translation><!-- Two --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Source Parent Lookup --></label>
+        <name>Source_Parent_Lookup__c</name>
+        <relationshipLabel><!-- Source Object (Source Parent Lookup) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Source Parent --></label>
+        <name>Source_Parent__c</name>
+        <relationshipLabel><!-- Source Object --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Text Area --></label>
+        <name>Text_Area__c</name>
+    </fields>
+    <fields>
+        <label><!-- Text Formula --></label>
+        <name>Text_Formula__c</name>
+    </fields>
+    <fields>
+        <label><!-- Text --></label>
+        <name>Text__c</name>
+    </fields>
+    <layouts>
+        <layout>Source Object Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

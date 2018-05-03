@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- Employee Management --></label>
+        <name>Employee_Management</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Local Flosum --></label>
+        <name>Local_Flosum</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Metadata Demo --></label>
+        <name>Metadata_Demo</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- My Test App --></label>
+        <name>My_Test_App</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Test Console --></label>
+        <name>Test_Console</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Zendesk for Salesforce --></label>
+        <name>Zendesk_for_Salesforce</name>
+    </customApplications>
+    <customLabels>
+        <label><!-- Custom Label One --></label>
+        <name>Custom_Label_One</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label1 --></label>
+        <name>Label1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label2 --></label>
+        <name>Label2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Commit to Remote Repository --></label>
+        <name>LocalFlosum__FL_Commit_to_Remote_Repository</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Download Changes from Remote Repository --></label>
+        <name>LocalFlosum__FL_Download_Changes_from_Remote_Repository</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Push to Remote Repository --></label>
+        <name>LocalFlosum__FL_Push_to_Remote_Repository</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Retrieve Changes from Local Org --></label>
+        <name>LocalFlosum__FL_Retrieve_Changes_from_Local_Org</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New --></label>
+        <name>New</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New Label One --></label>
+        <name>New_Label_One</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New Label Three --></label>
+        <name>New_Label_Three</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New Label Two --></label>
+        <name>New_Label_Two</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Special Character --></label>
+        <name>Special_Character</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NewLabel --></label>
+        <name>TempTest__NewLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Test1 --></label>
+        <name>Test1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Test label --></label>
+        <name>Test_label</name>
+    </customLabels>
+    <customPageWebLinks>
+        <label><!-- Test CustomPageWebLink --></label>
+        <name>Test_CustomPageWebLink</name>
+    </customPageWebLinks>
+    <customPageWebLinks>
+        <label><!-- Zendesk configuration --></label>
+        <name>Zendesk_configuration</name>
+    </customPageWebLinks>
+    <customTabs>
+        <label><!-- Local Workspace --></label>
+        <name>FL_Local_Workspace</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Remote Repository --></label>
+        <name>FL_Remote_Repository</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Settings --></label>
+        <name>FL_Settings</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Zendesk Logs --></label>
+        <name>IntegrationLogs</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- JSForce Deploy Demo --></label>
+        <name>JSForce_Deploy_Demo</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Master Record Viewer --></label>
+        <name>Master_Record_Viewer</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Metadata Create Demo --></label>
+        <name>Metadata_Create_Demo</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Metadata Delete Demo --></label>
+        <name>Metadata_Delete_Demo</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Metadata Deploy Delete --></label>
+        <name>Metadata_Deploy_Delete</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Metadata Deploy Demo --></label>
+        <name>Metadata_Deploy_Demo</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Metadata Retrieve Demo --></label>
+        <name>Metadata_Retrieve_Demo</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Preety Diff --></label>
+        <name>Preety_Diff</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- VFRetrieval --></label>
+        <name>VFRetrieval</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Zendesk --></label>
+        <name>Zendesk</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Zendesk Bulk Sync --></label>
+        <name>Zendesk_Bulk_Sync</name>
+    </customTabs>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Accounts with Entitlements with Contacts --></description>
+        <label><!-- Accounts with Entitlements with Contacts --></label>
+        <name>Accounts_with_Entitlements_with_Contacts</name>
+        <sections>
+            <label><!-- Accounts --></label>
+            <name>Accounts</name>
+        </sections>
+        <sections>
+            <label><!-- Contacts --></label>
+            <name>Contacts</name>
+        </sections>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Hell --></description>
+        <label><!-- Hell --></label>
+        <name>Hell</name>
+        <sections>
+            <label><!-- Hello Object Del --></label>
+            <name>Hello Object Del</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Hell 2 --></description>
+        <label><!-- Hell 2 --></label>
+        <name>Hell_2</name>
+        <sections>
+            <label><!-- Hello Objects --></label>
+            <name>Hello Objects</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Contract Line Items --></description>
+        <label><!-- Service Contracts with Contract Line Items --></label>
+        <name>Service_Contracts_with_Contract_Line_Items</name>
+        <sections>
+            <label><!-- Contract Line Items --></label>
+            <name>Contract Line Items</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Entitlements --></description>
+        <label><!-- Service Contracts with Entitlements --></label>
+        <name>Service_Contracts_with_Entitlements</name>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Test Object Type --></description>
+        <label><!-- Test Object Type --></label>
+        <name>Test_Object_Type</name>
+        <sections>
+            <label><!-- Test Objects --></label>
+            <name>Test Objects</name>
+        </sections>
+    </reportTypes>
+</Translations>

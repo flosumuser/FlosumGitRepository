@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Branch</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Branches</value>
+    </caseValues>
+    <fields>
+        <label><!-- Branch Name --></label>
+        <name>Branch_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Branch Lookup --></label>
+        <lookupFilter>
+            <informationalMessage>Select a branch type</informationalMessage>
+        </lookupFilter>
+        <name>Branch__c</name>
+        <relationshipLabel><!-- Branches --></relationshipLabel>
+    </fields>
+    <fields>
+        <label>Translated Label</label>
+        <name>Test_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test Two --></label>
+        <name>Test_Two__c</name>
+    </fields>
+    <fields>
+        <label><!-- User --></label>
+        <name>User__c</name>
+        <relationshipLabel><!-- Branches --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Branch Layout</layout>
+        <sections>
+            <label>Changed Label</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Second Layout</layout>
+        <sections>
+            <label>Custom Link Changed Label</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label>Test Action Label</label>
+        <name>Test_Action</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- Jumbo --></label>
+        <name>Jumbo</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Tingu --></label>
+        <name>Tingu</name>
+    </recordTypes>
+    <sharingReasons>
+        <label>Reason One Translate</label>
+        <name>Reason_One</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- Reason Two --></label>
+        <name>Reason_Two</name>
+    </sharingReasons>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage>error translation</errorMessage>
+        <name>one</name>
+    </validationRules>
+    <webLinks>
+        <label>Translate new weblink</label>
+        <name>New_Weblink</name>
+    </webLinks>
+</CustomObjectTranslation>

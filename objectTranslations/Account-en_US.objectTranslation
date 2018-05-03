@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Account New</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Accounts New</value>
+    </caseValues>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Active --></label>
+        <name>Active__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Address --></label>
+        <name>Address__c</name>
+    </fields>
+    <fields>
+        <label>Priority</label>
+        <name>CustomerPriority__c</name>
+        <picklistValues>
+            <masterLabel>High</masterLabel>
+            <translation><!-- High --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low</masterLabel>
+            <translation><!-- Low --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medium</masterLabel>
+            <translation><!-- Medium --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Latitude --></label>
+        <name>Latitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- Longitude --></label>
+        <name>Longitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of Locations --></label>
+        <name>NumberofLocations__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA Expiration Date --></label>
+        <name>SLAExpirationDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA Serial Number --></label>
+        <name>SLASerialNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA --></label>
+        <name>SLA__c</name>
+        <picklistValues>
+            <masterLabel>Bronze</masterLabel>
+            <translation><!-- Bronze --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gold</masterLabel>
+            <translation><!-- Gold --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Platinum</masterLabel>
+            <translation><!-- Platinum --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Silver</masterLabel>
+            <translation><!-- Silver --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Test Field --></label>
+        <name>Test_Field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test Picklist2 --></label>
+        <name>Test_Picklist2__c</name>
+        <picklistValues>
+            <masterLabel>Value Four</masterLabel>
+            <translation><!-- Value Four --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value One</masterLabel>
+            <translation><!-- Value One --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value Three</masterLabel>
+            <translation><!-- Value Three --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value Two</masterLabel>
+            <translation><!-- Value Two --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Test Picklist --></label>
+        <name>Test_Picklist__c</name>
+        <picklistValues>
+            <masterLabel>Value Four</masterLabel>
+            <translation><!-- Value Four --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value One</masterLabel>
+            <translation><!-- Value One --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value Three</masterLabel>
+            <translation><!-- Value Three --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Value Two</masterLabel>
+            <translation><!-- Value Two --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Upsell Opportunity --></label>
+        <name>UpsellOpportunity__c</name>
+        <picklistValues>
+            <masterLabel>Maybe</masterLabel>
+            <translation><!-- Maybe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Domain Mapping --></label>
+        <name>Zendesk__Domain_Mapping__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Sync Date --></label>
+        <name>Zendesk__Last_Sync_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Sync Status --></label>
+        <name>Zendesk__Last_Sync_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Notes --></label>
+        <name>Zendesk__Notes__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zendesk Result --></label>
+        <name>Zendesk__Result__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tags --></label>
+        <name>Zendesk__Tags__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zendesk Organization Id --></label>
+        <name>Zendesk__Zendesk_Organization_Id__c</name>
+    </fields>
+    <fields>
+        <help><!-- Show Zendesk tickets for the specified organization instead of the combined tickets for all users in the account. --></help>
+        <label><!-- Zendesk Organization --></label>
+        <name>Zendesk__Zendesk_Organization__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zendesk_OutofSync --></label>
+        <name>Zendesk__Zendesk_OutofSync__c</name>
+    </fields>
+    <fields>
+        <label><!-- Zendesk_oldTags --></label>
+        <name>Zendesk__Zendesk_oldTags__c</name>
+    </fields>
+    <fields>
+        <label><!-- createdUpdatedFlag --></label>
+        <name>Zendesk__createdUpdatedFlag__c</name>
+    </fields>
+    <fields>
+        <label><!-- city --></label>
+        <name>city__c</name>
+    </fields>
+    <fields>
+        <label><!-- country --></label>
+        <name>country__c</name>
+    </fields>
+    <fields>
+        <label><!-- postal code --></label>
+        <name>postal_code__c</name>
+    </fields>
+    <layouts>
+        <layout>Account Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- New Section --></label>
+            <section>New Section</section>
+        </sections>
+        <sections>
+            <label><!-- Table --></label>
+            <section>Table</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Account Layout SDoc</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- New Account New --></label>
+        <name>NewRecordCreated</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Page Action --></label>
+        <name>New_Page_Action</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Email --></label>
+        <name>SendEmailTest2</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Email --></label>
+        <name>Send_Email_Test</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- Default --></label>
+        <name>Default</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Export --></label>
+        <name>Export</name>
+    </recordTypes>
+    <recordTypes>
+        <label>Test1 Changed</label>
+        <name>Test1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Test2 --></label>
+        <name>Test2</name>
+    </recordTypes>
+    <recordTypes>
+        <label>Test 3 changed</label>
+        <name>Test3</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Undefined --></label>
+        <name>Undefined</name>
+    </recordTypes>
+    <startsWith>Vowel</startsWith>
+    <webLinks>
+        <label><!-- Billing --></label>
+        <name>Billing</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- PopUp --></label>
+        <name>PopUp</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Email_Docs --></label>
+        <name>SDOC__Email_Docs</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- S_Docs --></label>
+        <name>SDOC__S_Docs</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- ShowTree --></label>
+        <name>ShowTree</name>
+    </webLinks>
+    <workflowTasks>
+        <name>Check_CRC</name>
+        <subject>Jabar Task</subject>
+    </workflowTasks>
+    <workflowTasks>
+        <description><!-- Test approval process updated. --></description>
+        <name>TempTest__test</name>
+        <subject><!-- test --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>
