@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AutoResponseRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <autoResponseRule>
+        <fullName>Rule four</fullName>
+        <active>false</active>
+    </autoResponseRule>
+    <autoResponseRule>
+        <fullName>Rule one</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <criteriaItems>
+                <field>Lead.City</field>
+                <operation>contains</operation>
+                <value>gfh</value>
+            </criteriaItems>
+            <senderEmail>ravikantsaini91@gmail.com</senderEmail>
+            <senderName>Lead city name</senderName>
+            <template>Temp_Folder/Test_Template</template>
+        </ruleEntry>
+    </autoResponseRule>
+    <autoResponseRule>
+        <fullName>Rule two</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <senderEmail>ravikantsaini91@gmail.com</senderEmail>
+            <senderName>Ravikant saini</senderName>
+            <template>Temp_Folder/Test_Template</template>
+        </ruleEntry>
+    </autoResponseRule>
+</AutoResponseRules>

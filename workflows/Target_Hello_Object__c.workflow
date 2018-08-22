@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workflow    xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>Send_Log</fullName>
+        <description>Send Log</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Email_Id__c</field>
+            <type>email</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>Temp_Folder/Test_Log</template>
+    </alerts>
     <rules>
         <fullName>Send Log</fullName>
         <actions>

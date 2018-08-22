@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>saini@briskminds.com</contactEmail>
+    <label>My App</label>
+    <oauthConfig>
+        <callbackUrl>oob
+https://saini123-dev-ed--flosumdvt.ap2.visual.force.com/apex/flosumdvt__registerorganizations</callbackUrl>
+        <consumerKey>3MVG9ZL0ppGP5UrB9fJWpS5im1YzPFNnLiuCOt0UAEzPsSJGuGfB6ga9Vk8wPkPffmfBZycJBBuexMT7mzAap</consumerKey>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>Full</scopes>
+        <scopes>Chatter</scopes>
+        <scopes>CustomApplications</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>OpenID</scopes>
+        <scopes>CustomPermissions</scopes>
+    </oauthConfig>
+</ConnectedApp>

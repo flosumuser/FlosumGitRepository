@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workflow    xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>Alert</fullName>
+        <description>Alert</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Test_Email__c</field>
+            <type>email</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/SalesNewCustomerEmail</template>
+    </alerts>
+    <fieldUpdates>
+        <fullName>Action_One</fullName>
+        <field>OwnerId</field>
+        <lookupValue>saini@metadata.com</lookupValue>
+        <lookupValueType>User</lookupValueType>
+        <name>Action One</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>LookupValue</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>true</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Alert</fullName>
+        <field>Name</field>
+        <name>Alert</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <outboundMessages>
+        <fullName>Test_Msg</fullName>
+        <apiVersion>35.0</apiVersion>
+        <endpointUrl>http://1234</endpointUrl>
+        <fields>Id</fields>
+        <fields>Name</fields>
+        <includeSessionId>true</includeSessionId>
+        <integrationUser>saini@metadata.com</integrationUser>
+        <name>Test Msg</name>
+        <protected>true</protected>
+        <useDeadLetterQueue>false</useDeadLetterQueue>
+    </outboundMessages>
     <rules>
         <fullName>ABC</fullName>
         <active>false</active>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels    xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Custom_Label_One</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Custom Label One</shortDescription>
+        <value>Custom Label</value>
+    </labels>
+    <labels>
+        <fullName>Label1</fullName>
+        <categories>Valoue of sd</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Label1</shortDescription>
+        <value>Valoue of dfgfghfhbg</value>
+    </labels>
+    <labels>
+        <fullName>Label2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Label2</shortDescription>
+        <value>ddsfdsfds</value>
+    </labels>
+    <labels>
+        <fullName>New</fullName>
+        <categories>New</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New</shortDescription>
+        <value>New</value>
+    </labels>
+    <labels>
+        <fullName>New_Label_One</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New Label One</shortDescription>
+        <value>New Label One</value>
+    </labels>
+    <labels>
+        <fullName>New_Label_Three</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New Label Three</shortDescription>
+        <value>New Label Three</value>
+    </labels>
+    <labels>
+        <fullName>New_Label_Two</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New Label Two</shortDescription>
+        <value>New Label Two</value>
+    </labels>
+    <labels>
+        <fullName>Special_Character</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Special Character</shortDescription>
+        <value>These components have been modified in the branch since you were editing your changes. Hence, there is a “conflict” that needs to be resolved to ensure that you not overwriting changes from previous versions. The corrective action is to refactor your code with the latest version of these components from the branch.</value>
+    </labels>
+    <labels>
+        <fullName>Test1</fullName>
+        <categories>CategoryTest</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test1</shortDescription>
+        <value>Test1</value>
+    </labels>
+    <labels>
+        <fullName>Test_label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test label</shortDescription>
+        <value>This is test label</value>
+    </labels>
+</CustomLabels>
