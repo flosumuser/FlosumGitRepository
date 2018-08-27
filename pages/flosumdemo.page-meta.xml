@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>43.0</apiVersion>
+    <availableInTouch>false</availableInTouch>
+    <confirmationTokenRequired>false</confirmationTokenRequired>
+    <label>flosumdemo</label>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>192</minorNumber>
+        <namespace>Dataplier</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>10</majorNumber>
+        <minorNumber>129</minorNumber>
+        <namespace>LocalFlosum</namespace>
+    </packageVersions>
+</ApexPage>
